@@ -66,10 +66,11 @@
 
 ---
 
-##  GitHub Trophies 
+##  GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devbyaadi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devbyaadi&theme=radical" />
 </p>
+
 
 ---
 
