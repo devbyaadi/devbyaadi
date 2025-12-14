@@ -64,12 +64,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyaadi&theme=dark&layout=compact&hide_border=false"/>
 </p>
 
----
-
-##  GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbyaadi&theme=radical" />
-</p>
 
 
 ---
