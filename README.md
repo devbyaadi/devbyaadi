@@ -1,4 +1,9 @@
-<div align="center">
+<p align="center">
+  <img src="https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-is-collaborative-coding--1.png" alt="Collaborative Coding Banner"/>
+</p>
+
+<br/>
+
 
 # 👋 Hi, I'm Aaditya Narayan  
 ### 🚀 Aspiring Full-Stack Web Developer  
