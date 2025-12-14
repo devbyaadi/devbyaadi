@@ -84,8 +84,9 @@
 
 ## 👀 Profile Views
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=devbyaadi&icon=0&color=0"/>
+  <img src="https://komarev.com/ghpvc/?username=devbyaadi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 
 ---
 
