@@ -16,13 +16,13 @@
 
 ---
 
-## **  About Me** 
+#**  About Me** 
 > I am an **aspiring full-stack web developer** passionate about crafting **modern, scalable, and efficient applications**.  
 > I enjoy exploring new technologies, solving real-world problems, and enhancing **user experience through clean and maintainable code**.
 
 ---
 
-## ** **  Connect With Me** 
+# ** **  Connect With Me** 
 <p align="left">
   <a href="https://linkedin.com/in/aadityanarayann" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -31,7 +31,7 @@
 
 ---
 
-## **  Tech Stack** 
+# **  Tech Stack** 
 <p align="left">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## **  GitHub Stats** 
+# **  GitHub Stats** 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=devbyaadi&theme=dark&hide_border=false" height="170"/>
@@ -66,28 +66,28 @@
 
 ---
 
-## **  GitHub Trophies** 
+# **  GitHub Trophies** 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=devbyaadi&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
 
-## **  Dev Quote** 
+# **  Dev Quote** 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-## **  Top Contributed Repositories** 
+# **  Top Contributed Repositories** 
 <p align="center">
 <img src="https://github-contributor-stats.vercel.app/api?username=devbyaadi&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
-## **  Profile Views** 
+# **  Profile Views** 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devbyaadi&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
